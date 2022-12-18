@@ -1,0 +1,6 @@
+id,nombre
+3869,Sakura Momoko Gekijou: Coji-Coji
+8786,Inakappe Taishou
+28145,Johnny Cypher
+19987,Kaitou Pride
+14623,Chikyuu SOS Sore Ike Kororin
